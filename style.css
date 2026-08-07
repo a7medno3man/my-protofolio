@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-color: rgb(252, 252, 252);
+    color: rgb(0, 0, 0);
+}
+h1{
+    padding: 15px;
+    border-radius: 10px;
+}
+
+img{
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+}
+iframe{
+    border-radius: 50px;
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+}
+a{
+    
+    margin-bottom: 20px;
+}
+.whatsapp{
+    height: 40px;
+    width: 40px;
+    
+}
+.facebook{
+    height: 40px;
+    width: 40px;
+   
+}
+.instagram{
+    height: 40px;
+    width: 40px;
+    
+}
+.linkedin{
+    height: 40px;
+    width: 40-px;
+  
+}
