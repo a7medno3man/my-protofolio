@@ -2,6 +2,8 @@ body{
     background-color: rgb(252, 252, 252);
     color: rgb(0, 0, 0);
     text-align: center;
+    margin: 0;
+    width: 100%;
 }
 h1{
     padding: 15px;
@@ -44,9 +46,9 @@ a{
   
 }
 ul{
-    width: 400;
-    margin: auto;
+    width: 90%;
+    max-width: 700px;
+    margin: 30px auto;
     text-align: left;
-    list-style-position: inside;
     list-style-type: square;
 }
