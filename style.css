@@ -1,7 +1,7 @@
 body{
-    text-align: center;
     background-color: rgb(252, 252, 252);
     color: rgb(0, 0, 0);
+    text-align: center;
 }
 h1{
     padding: 15px;
@@ -42,4 +42,11 @@ a{
     height: 40px;
     width: 40px;
   
+}
+ul{
+    padding: 0;
+    margin: 30px 500px 30px 500px;
+    list-style-position: inside;
+    list-style-type: square;
+    list
 }
